@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.rating {
+    margin-bottom: 20px;
+}
+
+.rating label {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.message label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
